@@ -1,2 +1,22 @@
-# student-performance-analysis-ml
-The objective of this project is to analyze student academic performance using Python and predict final results based on factors such as study time, attendance, and previous scores. This project helps in understanding how different parameters affect student performance.
+
+# Student Performance Analysis and Prediction Using Python and Machine Learning
+
+## Project Description
+This project analyzes student academic data and predicts final scores using machine learning techniques.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Files Included
+- student_performance.csv
+- student_performance.ipynb
+- README.md
+
+## Algorithm Used
+Linear Regression
+
+## Conclusion
+This project demonstrates how machine learning can be applied to educational data.
